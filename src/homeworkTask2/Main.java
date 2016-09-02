@@ -7,8 +7,8 @@ public class Main {
     public static void main(String[] args) {
 
         Adder adder = new Adder();
-        adder.sumMethod();
-        adder.chek();
+        adder.sumMethod(5,5);
+        adder.chek(5,4);
 
     }
 }

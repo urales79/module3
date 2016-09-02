@@ -6,10 +6,12 @@ package homeworkTask2;
 public class Adder extends Ariphmetic{
     int a;
     int b;
-    void chek(){
-        if (a<=0){
-            System.out.println("true");
-        }
-        else System.out.println("false");
-    }
+
+          boolean chek(int a,int b){
+              this.a=a;
+              this.b=b;
+              return a>=b;
+          }
+
+
 }
