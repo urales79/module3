@@ -7,7 +7,7 @@ public class Adder extends Ariphmetic{
     int a;
     int b;
 
-          boolean chek(int a,int b){
+          boolean chek(Integer a,Integer b){
               this.a=a;
               this.b=b;
               return a>=b;

@@ -7,7 +7,7 @@ public class Ariphmetic {
     int a;
     int b;
 
-   int  sumMethod(int a,int b){
+   int  add(Integer a,Integer b){
        this.a=a;
        this.b=b;
        return a+b;
