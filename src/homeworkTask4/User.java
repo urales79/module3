@@ -1,4 +1,4 @@
-package homeworkTask3.homeworkTask4;
+package homeworkTask4;
 
 /**
  * Created by Юрий on 03.09.2016.
