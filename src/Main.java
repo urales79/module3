@@ -7,7 +7,7 @@ public class Main {
         bird.walk();
         bird.fly();
         bird.sing();
-        System.out.println("I am Bird");
+        bird.iAm();
 
     }
 }
